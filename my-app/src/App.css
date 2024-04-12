@@ -1,10 +1,10 @@
 .App{
     width: 100%;
     min-width: 780px;
-    height: 100vh;
+    height: 80vh;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: flex-start;
     background-color: #F0F2F5 ;
-    padding-top: 150px;
+    padding-top: 100px;
 }
