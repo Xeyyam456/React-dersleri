@@ -2,17 +2,18 @@
 import './App.css';
 import Header from './components/header/Header';
 import Form from './components/form/Form';
-import Footer from './components/footer/Footer';
+// import Bottom from './components/bottom/Bottom';
 import React from 'react'
 
 
 
 const App = () => {
   return (
-    <div>
+    <div className='App'>
+
       <Header />
       <Form/>
-      <Footer/>
+      {/* <Bottom/> */}
 
 
     </div>

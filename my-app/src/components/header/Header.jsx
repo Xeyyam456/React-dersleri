@@ -4,7 +4,7 @@ import React from 'react'
 
 const Header = () => {
     return (
-        <div>
+        <div className="Header">
             
             <h1>facebook</h1>
             <p>Facebook tanıdıklarınla iletişim kurmanı ve hayatında olup bitenleri paylaşmanı sağlar.</p>

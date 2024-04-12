@@ -1,0 +1,23 @@
+.Header{
+    width: 400px;
+    min-width: 350px;
+    min-height: 150px;
+    overflow: hidden;
+    padding: 0px 10px;
+    margin-top: 50px;
+
+    p{
+        color:#1C1E21;
+        font-size: 24px;
+      
+    }
+
+    h1{
+        color: #0866FF;
+        font-size: 64px;
+        margin: 10px 0px -20px 0px;
+        
+    
+    }
+}
+
